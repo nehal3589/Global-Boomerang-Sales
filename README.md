@@ -155,68 +155,6 @@ The analysis showed that:
 * The company achieved around $1 billion in total profit.
 * Medium discounts performed better than high and low discount strategies.
 * The Quad product was one of the strongest profit-generating products.
-
----
-
-## Why This Is a Big Data Project
-
-This project is considered a Big Data solution because it addresses the main Big Data characteristics:
-
-### Volume
-
-The dataset contains millions of records, which makes traditional analysis tools inefficient.
-
-### Variety
-
-The system integrates multiple tables and dimensions, including transactions, products, countries, dates, and sales channels.
-
-### Velocity
-
-The pipeline supports fast movement of data from ingestion to processing and visualization.
-
-### Scalability
-
-The architecture can scale by using cloud services such as AWS Glue, Amazon S3, and Snowflake.
-
-### Distributed Processing
-
-Apache Spark allows the data to be processed across multiple nodes instead of relying on a single machine.
-
----
-
-## Challenges
-
-Some challenges faced during the project included:
-
-* Learning and integrating AWS Glue, Spark, Snowflake, and Power BI.
-* Configuring IAM roles and trust relationships securely.
-* Handling millions of records efficiently.
-* Debugging errors in a large-scale dataset.
-* Understanding financial and business metrics without a domain expert.
-
----
-
-## Future Improvements
-
-Possible future improvements include:
-
-* Building a real-time streaming pipeline.
-* Adding automated data quality checks.
-* Improving dashboard interactivity.
-* Adding predictive analytics or machine learning models.
-* Creating alerts for unusual sales or profit changes.
-* Expanding the system to support more data sources.
-
----
-
-## Ethics and Privacy
-
-The project uses a private operational dataset. Security and privacy were considered by applying the Principle of Least Privilege, where Snowflake was given read-only access to the required S3 folders.
-
-The integration between AWS and Snowflake was secured using IAM roles, trust relationships, and storage integration objects.
-
-AI tools such as ChatGPT and Gemini were used only for research, debugging support, and documentation assistance, while the final implementation and validation were completed by the project team.
-
 ---
 
 ## Team Members
@@ -226,10 +164,6 @@ AI tools such as ChatGPT and Gemini were used only for research, debugging suppo
 * Mrooj Munshi
 
 ---
-
-## Course
-
-Big Data Mining - DS5411
 
 ## Instructor
 
@@ -247,8 +181,7 @@ A/Prof. Olfat Mirza
 │   └── data_processing.ipynb
 ├── dashboard/
 │   └── powerbi_dashboard.pbix
-└── report/
-    └── FinalBigDataProject.pdf
+
 ```
 
 ```
