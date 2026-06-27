@@ -172,15 +172,10 @@ A/Prof. Olfat Mirza
 ---
 
 ## Repository Structure
-
-```text
-.
 ├── README.md
 ├── notebooks/
 │   ├── data_ingestion.ipynb
 │   └── data_processing.ipynb
-├── dashboard/
-│   └── Boomerang-Sales.pbix
 
 ```
 
