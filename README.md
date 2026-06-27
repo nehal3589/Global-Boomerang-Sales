@@ -1,8 +1,8 @@
 # Global-Boomerang-Sales
-````markdown
-# Design and Implementation of a Scalable Big Data Ecosystem for Advanced Analytics
 
-## Project Overview
+Design and Implementation of a Scalable Big Data Ecosystem for Advanced Analytics
+
+Project Overview
 This project focuses on building a scalable Big Data ecosystem for E-commerce Sales and Customer Analytics.
 
 The goal is to transform large-scale raw retail transaction data into structured, clean, and useful insights that support business decision-making through cloud-based processing and interactive dashboards.
