@@ -46,10 +46,8 @@ The data includes:
 - Products
 - Countries
 - Sales channels
-- Revenue
 - Cost
 - Discounts
-- Profit
 - Quantity sold
 - Dates
 
