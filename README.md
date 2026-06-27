@@ -180,7 +180,7 @@ A/Prof. Olfat Mirza
 │   ├── data_ingestion.ipynb
 │   └── data_processing.ipynb
 ├── dashboard/
-│   └── powerbi_dashboard.pbix
+│   └── Boomerang-Sales.pbix
 
 ```
 
